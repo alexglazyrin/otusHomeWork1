@@ -1,7 +1,7 @@
 /.gradle/
 /.kotlin/
-!/gradle/
-**/build/
+build/
+!gradle/wrapper/gradle-wrapper.jar
 !**/src/**/build/
 
 /.idea/
